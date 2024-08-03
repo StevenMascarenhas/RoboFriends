@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-here is the link for the preview of the app
+here is the link for the preview of the app:
+
+https://stevenmascarenhas.github.io/RoboFriends/
 
 TO RUN THE APP
 
