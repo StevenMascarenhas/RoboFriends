@@ -5,8 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 here is the link for the preview of the app
 
 TO RUN THE APP
+
+
 1.Clone the repo
+
+
 2.npm install
+
+
 3.npm start
 
 ## Available Scripts
